@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniq-dash
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on simple beginner friendly projects
 - 📫 You wont reach me now, as I'm just a beginner
 - 😄 Pronouns: Him/his
